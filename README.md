@@ -5,7 +5,7 @@ A **Power BI** report that delivers a clear, data-driven view of patient wait-ti
 ---
 
 ## 📸 Screenshot
-> ✅ All screenshots used below (`.png` files) are committed to the repository and can be found in the root directory.
+> ✅ All screenshots used are committed to the repository and can be found in the root directory.
 ---
 
 ## ✨ Key Highlights
