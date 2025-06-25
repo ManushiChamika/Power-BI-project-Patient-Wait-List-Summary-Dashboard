@@ -5,7 +5,7 @@ A **Power BI** report that delivers a clear, data-driven view of patient wait-ti
 ---
 
 ## 📸 Screenshot
-![Dashboard Screenshot](Screenshot 2025-06-25 172459.png)
+![Dashboard Screenshot](C:\Users\mcket\OneDrive - Sri Lanka Institute of Information Technology\Documents\Manu\Pictures\Screenshots/Screenshot 2025-06-25 172459.png)
 ![Dashboard Screenshot](Screenshot 2025-06-25 172627.png)
 ![Dashboard Screenshot](Screenshot 2025-06-25 172643.png)
 ---
